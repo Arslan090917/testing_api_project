@@ -6,6 +6,6 @@ if __name__ == '__main__':
         use_debugger=False,
         use_reloader=False,
         passthrough_errors=True,
-        host='127.0.0.1',
+        host='0.0.0.0',
         port=55677
     )
